@@ -30,10 +30,10 @@ function FC_ContentsCall(strContentsName, strLanguage)
             break;
         case "Home":
             //writeCookie("NavigationState", true, 30);
-           location.href = "../../maincontents.htm";
+           location.href = "../../ie.html";
            break;
         case "Menu":
-           location.href = "../../maincontents.htm"; 
+           location.href = "../../ie.html"; 
             break;
         case "PrizeWheel":
             //PlaySpeech(speak[0]);
