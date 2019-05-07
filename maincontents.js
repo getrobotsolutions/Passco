@@ -144,7 +144,7 @@ function OnJoystickControlled(strPara){
     if(btn_info[2] == '1'){
         //window.external.ChangeLanguage("en-us");
             SetVolume(1);
-            window.external.PlaySpeech("Hi Stacy.   This morning I was reviewing your website, it’s very impressive.  I read that Passco has one of the top company cultures in America.  I’d love to be a part of this culture at RECon, ha, ha. I really like attending Las Vegas trade shows.  I’ll draw people to your booth, and Passco will be the talk of the show because you have a cool robot.  RECon attendees can have fun talking and dancing with me, and I can take their picture and send it to them in a Passco photo frame. Stacy, please call Paul for a special rental rate.  In the meantime, I’ll go and get ready for RECON.  Thanks Stacy!");
+            window.external.PlaySpeech("Hi Stacy.   This morning I was reviewing your website, it’s very impressive.  I read that Passco has one of the top company cultures in America.  I’d love to be a part of this culture at recon, ha, ha. I really like attending Las Vegas trade shows.  I’ll draw people to your booth, and Passco will be the talk of the show because you have a cool robot.  RECon attendees can have fun talking and dancing with me, and I can take their picture and send it to them in a Passco photo frame. Stacy, please call Paul for a special rental rate.  In the meantime, I’ll go and get ready for RECON.  Thanks Stacy!");
     }
     if(btn_info[3] == '1'){
         //window.external.ChangeLanguage("en-us");
